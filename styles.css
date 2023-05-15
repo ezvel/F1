@@ -1,0 +1,42 @@
+header {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #282a36;
+    color: #FFF;
+    min-width: 679px;
+}
+
+header h1 {
+    text-transform: uppercase;
+}
+
+main {
+    padding: 50px 0;
+    background-color: black;
+}
+
+table {
+    min-width: 460px;
+    padding: 50px;
+    border-radius: 50px;
+}
+
+table tr {
+    height: 50px;
+}
+
+table img {
+    border-radius: 20%;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.table-container {
+    padding: 50px;
+    background-color: #282a36;
+    border-radius: 50px;
+}
